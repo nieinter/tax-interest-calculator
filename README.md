@@ -16,3 +16,4 @@
 - [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [datetime](https://docs.python.org/3/library/datetime.html)
+- [os](https://docs.python.org/3/library/os.html)
